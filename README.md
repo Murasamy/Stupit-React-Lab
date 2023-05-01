@@ -1,2 +1,2 @@
-# Stupit-React-Lab
-Stupit REact Lab
+# Stupid-React-Lab
+Stupid REact Lab
